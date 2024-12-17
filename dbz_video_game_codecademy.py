@@ -99,4 +99,3 @@ if selected_character.max_health or selected_opponent.max_health < 1:
 
 #Second Round Fight
 print("Lets FIGHT!")
-
